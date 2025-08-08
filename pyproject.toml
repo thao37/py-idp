@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "AI-enabled Intelligent Document Processing for Python: 12+ LLM backends, Pydantic schemas, self-hosted OCR (Nanonets-OCR2-3B), auto-schema discovery, HITL review, prod FastAPI server. AGPL-3.0 + commercial."
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
