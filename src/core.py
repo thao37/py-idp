@@ -24,3 +24,4 @@ if __name__ == "__main__":
 # clarify the control flow
 # match the style used in the rest of the module
 # clarify the control flow
+# drop an unused branch
